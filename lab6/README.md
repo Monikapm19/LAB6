@@ -35,8 +35,6 @@ coverage report -m
 - **Missed**: 0
 - **Line Coverage**: **100%**
 
-#### Terminal Output Screenshot:
-![Code Coverage Screenshot](code_coverage_screenshot.png)
 
 ---
 
@@ -56,8 +54,7 @@ coverage report -m
 - **Partial Branches (BrPart)**: 0
 - **Branch Coverage**: **100%**
 
-#### Terminal Output Screenshot:
-![Branch Coverage Screenshot](branch_coverage_screenshot.png)
+
 
 ---
 
